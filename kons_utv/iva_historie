@@ -1,0 +1,14 @@
+print("hallo", "verden" "!")
+print("hallo", "verden", "!", sep="+")
+print("hallo", "verden", "!", end= " ")
+print("hallo", "igjen", "!", end=" Slutt")
+print("01", "01", "2022", sep= ":")
+print("per", "spellmann", sep= ".",end= "@")
+print("eventyr.no")
+
+navn= input("iva:")
+print("hallo", iva)
+
+navn1= input(iva)
+navn2= igjen(ana)
+print(navn1, navn2, sep="\n")
